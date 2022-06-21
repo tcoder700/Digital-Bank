@@ -1,3 +1,5 @@
+This Project Digital Bank is a decentralised finance app built using dfx and motoko as a part of my web3 journey. To use this app make sure you have laters version of node js and dfx installed in your computer.
+
 # dbank
 
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
